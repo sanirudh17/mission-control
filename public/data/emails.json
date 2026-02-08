@@ -1,0 +1,26 @@
+[
+  {
+    "id": "e1",
+    "sender": "Quizzards Club REC",
+    "subject": "QUIZOCALYPSE 2026 - 21st February 2026",
+    "preview": "An intercollegiate and school quizzing event...",
+    "timestamp": 1770548000000,
+    "read": false
+  },
+  {
+    "id": "e2",
+    "sender": "Training Officer",
+    "subject": "Gentle Reminder DoMore Language Skills Training",
+    "preview": "Registration for Mandarin language classes closing soon...",
+    "timestamp": 1770547000000,
+    "read": false
+  },
+  {
+    "id": "e3",
+    "sender": "Google Classroom",
+    "subject": "New Material: Sustainable Development",
+    "preview": "Prof. Smith posted new material: Unit 3 Notes...",
+    "timestamp": 1770540000000,
+    "read": true
+  }
+]
