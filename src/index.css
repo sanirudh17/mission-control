@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@200;300;400;500;600&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-background text-primary font-sans antialiased;
+    background-image: radial-gradient(#e5e7eb 1px, transparent 1px);
+    background-size: 24px 24px;
+  }
+}
+
+@layer utilities {
+  .glass-card {
+    @apply bg-card backdrop-blur-xl border border-white/20 shadow-sm rounded-2xl;
+  }
+  
+  .glass-panel {
+    @apply bg-white/40 backdrop-blur-md border border-white/20;
+  }
+}
